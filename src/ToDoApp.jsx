@@ -36,7 +36,7 @@ const ToDoApp =()=>{
         <>
         <Paper  elevation={3} style={{padding:"20px",paddingTop:"1px",minHeight:"100vh",margin:"0px"}}>
         <h1 
-        style={{backgroundColor:"#7e57c2",
+        style={{backgroundColor:"#191029",
         color:"white",
         fontSize:"30px",
         textAlign:"center",
